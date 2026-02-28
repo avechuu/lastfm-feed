@@ -22,6 +22,6 @@ jobs:
 
       - name: Deploy to Neocities
         run: |
-          curl -u "velosophy:${{ secrets.NEOCITIES_API_KEY }}" \
+          curl -v -u "velosophy:${{ secrets.NEOCITIES_API_KEY }}" \
           -F "latest.json=@latest.json" \
           https://neocities.org/api/upload

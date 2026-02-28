@@ -32,5 +32,5 @@ jobs:
                 
       - name: Test Neocities Auth
         run: |
-          curl -u "velosophy:d8249da93b6ac5e2dbfc15d486746154" \
+          curl -u "velosophy:${{ secrets.NEOCITIES_API_KEY }}" \
           https://neocities.org/api/info

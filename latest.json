@@ -1,11 +1,18 @@
 {
   "tracks": [
     {
+      "name": "Gravits",
+      "artist": "Crayon Case",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
       "name": "Surabaya",
       "artist": "Crayon Case",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/6a5ae8d6363f874cc99ce34ebbd65f68.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1772281022
     },
     {
       "name": "Bayang",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/efb341c4338f7614a41d4933344ece51.jpg",
       "nowPlaying": false,
       "timestamp": 1772215946
-    },
-    {
-      "name": "IFHY - Instrumental",
-      "artist": "Tyler, The Creator",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8e95434f816bedf77ab1ef1724ec2af5.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772215626
     }
   ]
 }

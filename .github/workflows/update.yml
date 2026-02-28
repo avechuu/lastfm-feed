@@ -30,8 +30,7 @@ jobs:
           git commit -m "update latest track" || echo "No changes"
           git push
                 
-      - name: Deploy to Neocities
+      - name: Test Neocities Auth
         run: |
-          curl -v -u "velosophy:d8249da93b6ac5e2dbfc15d486746154" \
-          -F "latest.json=@latest.json" \
-          https://neocities.org/api/upload
+          curl -u "velosophy:d8249da93b6ac5e2dbfc15d486746154" \
+          https://neocities.org/api/info

@@ -20,9 +20,8 @@ jobs:
 
       - run: node fetch.js
 
-      - run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add latest.json
-          git commit -m "update latest track" || echo "No changes"
-          git push
+      - name: Deploy to Neocities
+        run: |
+          curl -u "velosophy:${{ secrets.NEOCITIES_API_KEY }}" \
+          -F "latest.json=@latest.json" \
+          https://neocities.org/api/upload

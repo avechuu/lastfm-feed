@@ -1,11 +1,18 @@
 {
   "tracks": [
     {
+      "name": "ma chérie ~愛しい君へ~",
+      "artist": "Malace Mizer",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5ea6013bf482e261a0c10bae0bc24db8.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772383719
+    },
+    {
       "name": "worst case scenario",
       "artist": "Nastyona",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/bd5c6192193dfcbcf3fbf85e22331cb4.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1772383505
     },
     {
       "name": "LIAR・SADIST・COWARD",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/d6b634a06e2d0a1092cc3a0a4d58096d.jpg",
       "nowPlaying": false,
       "timestamp": 1772382900
-    },
-    {
-      "name": "Paint By Numbers",
-      "artist": "Self",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/efb341c4338f7614a41d4933344ece51.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772382712
     }
   ]
 }

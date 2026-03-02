@@ -2,10 +2,10 @@
   "tracks": [
     {
       "name": "Vinyl Junkie",
-      "artist": "0.8秒と衝撃。",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c350f71cc3038964d0cd7936e694c12e.png",
-      "nowPlaying": true,
-      "timestamp": null
+      "artist": "0.8syooogeki",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/79af7014e767d161fd3100f4d13411ed.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772467442
     },
     {
       "name": "Fool",

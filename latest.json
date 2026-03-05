@@ -1,11 +1,25 @@
 {
   "tracks": [
     {
+      "name": "Vindicated",
+      "artist": "Dashboard Confessional",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ff2443c40bb143a2c345990affb10317.png",
+      "nowPlaying": false,
+      "timestamp": 1772668967
+    },
+    {
+      "name": "Hands Down",
+      "artist": "Dashboard Confessional",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2c7a7af373964b8acbdbd09085ad0063.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772668778
+    },
+    {
       "name": "Lifestyles of the Rich & Famous",
       "artist": "Good Charlotte",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/9bc9763792fe2360daa6a027b7ed70b8.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1772668665
     },
     {
       "name": "The Anthem",
@@ -20,20 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7675defb2787ce67cd030081eb8ff77c.png",
       "nowPlaying": false,
       "timestamp": 1772668095
-    },
-    {
-      "name": "Placing The Blame",
-      "artist": "Self",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/efb341c4338f7614a41d4933344ece51.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772642803
-    },
-    {
-      "name": "IFHY - Instrumental",
-      "artist": "Tyler, The Creator",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8e95434f816bedf77ab1ef1724ec2af5.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772642484
     }
   ]
 }

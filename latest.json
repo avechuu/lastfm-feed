@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Trillium (feat. Sara)",
-      "artist": "S3RL",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bc3f96515d1916cf65f7ba534dbc37b.jpg",
+      "name": "9 To 5",
+      "artist": "Super Cassette",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1a97e51f493e2fb66e3a42af475e4485.png",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "MTC - No Hero Remix",
-      "artist": "S3RL",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5a4262cc914f160e85aaf9a74f1e0eee.jpg",
+      "name": "A Man Was Never One",
+      "artist": "Super Cassette",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ed25012baa6c743d740cbf8e8d14110c.jpg",
       "nowPlaying": false,
-      "timestamp": 1772980524
+      "timestamp": 1772981521
     },
     {
-      "name": "Pika Girl",
-      "artist": "S3RL",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/888d9c6066b08a8a9c716959429b2a38.jpg",
+      "name": "Be Gay, Do Drugs, Hail Satan",
+      "artist": "Super Cassette",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/eeb6c66f255736ebcb97bbeb8f11286c.jpg",
       "nowPlaying": false,
-      "timestamp": 1772980393
+      "timestamp": 1772981341
     },
     {
-      "name": "Trillium (feat. Sara)",
-      "artist": "S3RL",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bc3f96515d1916cf65f7ba534dbc37b.jpg",
+      "name": "Ai Đưa Em Về",
+      "artist": "Tia",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b591fc87d36d80bf34bc6d9fab085900.jpg",
       "nowPlaying": false,
-      "timestamp": 1772979948
+      "timestamp": 1772981164
     },
     {
-      "name": "Just Like Her (feat. KASANE TETO & Chis-A)",
-      "artist": "Kareki Kashiwagi",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "Jesus on the Telephone",
+      "artist": "Machinery of the Human Heart",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3aed9cd00a67c3af26ad11834adfae94.jpg",
       "nowPlaying": false,
-      "timestamp": 1772947886
+      "timestamp": 1772981045
     }
   ]
 }

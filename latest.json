@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
+      "name": "Trillium (feat. Sara)",
+      "artist": "S3RL",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bc3f96515d1916cf65f7ba534dbc37b.jpg",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
+      "name": "MTC - No Hero Remix",
+      "artist": "S3RL",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5a4262cc914f160e85aaf9a74f1e0eee.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772980524
+    },
+    {
+      "name": "Pika Girl",
+      "artist": "S3RL",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/888d9c6066b08a8a9c716959429b2a38.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772980393
+    },
+    {
+      "name": "Trillium (feat. Sara)",
+      "artist": "S3RL",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bc3f96515d1916cf65f7ba534dbc37b.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772979948
+    },
+    {
       "name": "Just Like Her (feat. KASANE TETO & Chis-A)",
       "artist": "Kareki Kashiwagi",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
       "timestamp": 1772947886
-    },
-    {
-      "name": "Live is Evil Spelled Backwards",
-      "artist": "Picture Me Broken",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/51b6720ec27f4d1ea74d153b3c907f5d.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772947378
-    },
-    {
-      "name": "Grand Romantic Life",
-      "artist": "Mom Rock",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9cc6714d77234e9c03d88f9c8b097e48.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772947267
-    },
-    {
-      "name": "Lucky Comes True! - 2021 Remastered Version",
-      "artist": "マチカネフクキタル (CV. 新田ひより)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/81189d3377096039e3aac5413fb4e687.png",
-      "nowPlaying": false,
-      "timestamp": 1772947046
-    },
-    {
-      "name": "大好きのタカラバコ - 2021 Remastered Version",
-      "artist": "ナリタブライアン (CV. 相坂優歌)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/60227ce1f7a77f69d10ef25d6503c9f5.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772814838
     }
   ]
 }

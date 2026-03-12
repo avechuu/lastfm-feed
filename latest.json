@@ -1,6 +1,27 @@
 {
   "tracks": [
     {
+      "name": "Beating Heart Baby",
+      "artist": "Head Automatica",
+      "image": "",
+      "nowPlaying": false,
+      "timestamp": 1773321034
+    },
+    {
+      "name": "Go Away",
+      "artist": "Weezer",
+      "image": "",
+      "nowPlaying": false,
+      "timestamp": 1773320837
+    },
+    {
+      "name": "Trillium (feat. Sara)",
+      "artist": "S3RL",
+      "image": "",
+      "nowPlaying": false,
+      "timestamp": 1773320638
+    },
+    {
       "name": "Everyone's Trying to Kill Me",
       "artist": "That Handsome Devil",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/37a1234e0341cb339f6fede622b6c766.jpg",
@@ -13,27 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/4941074130db0ba577df2d98409b6dda.png",
       "nowPlaying": false,
       "timestamp": 1773252252
-    },
-    {
-      "name": "Me and Mr Wolf",
-      "artist": "The Real Tuesday Weld",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f428683b97e74d16bea40c12d1c20d2f.jpg",
-      "nowPlaying": false,
-      "timestamp": 1773251651
-    },
-    {
-      "name": "Harvey",
-      "artist": "Her's",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3dfc90eece3bcdfbfe7c860d1f54477b.jpg",
-      "nowPlaying": false,
-      "timestamp": 1773251440
-    },
-    {
-      "name": "Pretty Girl",
-      "artist": "Jon B.",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/620120c6baf54a04ca084ceb0eb7b6a2.png",
-      "nowPlaying": false,
-      "timestamp": 1773251140
     }
   ]
 }

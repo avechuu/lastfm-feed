@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "Join Me In Death - Strongroom Mix",
+      "artist": "HIM",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9eaa7a6c73d741158b8f3bcc36a5d8f1.jpg",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
       "name": "You're Mine",
       "artist": "DAGames",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/01651139acbe92a663b0daa4d7703dcf.jpg",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/0099e844f8e723170239f7a6a2cb76af.jpg",
       "nowPlaying": false,
       "timestamp": 1775558936
-    },
-    {
-      "name": "Back To Me",
-      "artist": "The Marías",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/79a92e9e0494b30da176e53c124688de.jpg",
-      "nowPlaying": false,
-      "timestamp": 1775558726
     }
   ]
 }

@@ -1,13 +1,6 @@
 {
   "tracks": [
     {
-      "name": "TWICE REMOVED",
-      "artist": "Jane Remover",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e63ec5a92240a2f3292aa15bd5af39a.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
       "name": "yasu club",
       "artist": "Lucy Bedroque",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/1cac9089b965e442b94df9d358c8008c.jpg",
@@ -34,6 +27,13 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/a61eb5d41e4ddbbdc3881a1ef1cf495b.jpg",
       "nowPlaying": false,
       "timestamp": 1775634593
+    },
+    {
+      "name": "Cream Soda",
+      "artist": "venturing",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6db51943e908f51fb551290e335e53be.jpg",
+      "nowPlaying": false,
+      "timestamp": 1775634500
     }
   ]
 }

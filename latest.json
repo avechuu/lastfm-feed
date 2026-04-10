@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Dial 143",
-      "artist": "Jomm",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/31ef06b599ae112f6d37ad5fd532c9e2.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "name": "Join Me In Death - Strongroom Mix",
+      "artist": "HIM",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9eaa7a6c73d741158b8f3bcc36a5d8f1.jpg",
+      "nowPlaying": false,
+      "timestamp": 1775832018
     },
     {
-      "name": "Mind Over Matter",
-      "artist": "Young the Giant",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/702412d421bc0cadff3785aadc759f93.png",
+      "name": "SIXFT",
+      "artist": "I DONT KNOW HOW BUT THEY FOUND ME",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0c0a6ed4051d7ecc3f117e4793225243.jpg",
       "nowPlaying": false,
-      "timestamp": 1775830389
+      "timestamp": 1775831818
     },
     {
-      "name": "All I Did Was Dream Of You (feat. The Marías)",
-      "artist": "beabadoobee",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5d7a2e49a157a4aa6173af63d61e9580.png",
+      "name": "I ONLY WANT TO BE WITH YOU",
+      "artist": "Tommy february6",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7abbf0f68d2573aef8451f078f3e28ae.png",
       "nowPlaying": false,
-      "timestamp": 1775830171
+      "timestamp": 1775831578
     },
     {
-      "name": "Secret Door",
-      "artist": "Arctic Monkeys",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/70163676ea2e4c44959c3af0f71b30d8.png",
+      "name": "Pretty Peach",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
       "nowPlaying": false,
-      "timestamp": 1775817693
+      "timestamp": 1775831402
     },
     {
-      "name": "You Make Me Sick",
-      "artist": "bitbreaker",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/81a617940f29f1b77984bcff3ce2ebcb.jpg",
+      "name": "How To Pretend",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
       "nowPlaying": false,
-      "timestamp": 1775817249
+      "timestamp": 1775831183
     }
   ]
 }

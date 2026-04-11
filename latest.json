@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "The Bidding",
+      "artist": "Tally Hall",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3f51768726b92fac71f82d2cb9a50b0b.jpg",
+      "nowPlaying": false,
+      "timestamp": 1775897274
+    },
+    {
       "name": "Obsessed With You",
       "artist": "The Orion Experience",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/0d0ce0ad8eeb5715ef0802d1347a3bdf.jpg",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/79a92e9e0494b30da176e53c124688de.jpg",
       "nowPlaying": false,
       "timestamp": 1775837860
-    },
-    {
-      "name": "Mr. Loverman",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c7ce950fb1b356158e6653800c089828.jpg",
-      "nowPlaying": false,
-      "timestamp": 1775837649
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
   "tracks": [
     {
+      "name": "Lovely",
+      "artist": "The Bean Tones",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
+      "name": "Lovely",
+      "artist": "The Bean Tones",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1776016920
+    },
+    {
       "name": "far from love",
       "artist": "jondre",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/dd636d9337d4a1a5d72f52eade507214.png",
@@ -20,20 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/1799edd01266797da30a9a8557942512.png",
       "nowPlaying": false,
       "timestamp": 1776016391
-    },
-    {
-      "name": "For The Best",
-      "artist": "Ebony Loren",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1fc72ebce3d6a93286fe7e6bb2e13d6d.jpg",
-      "nowPlaying": false,
-      "timestamp": 1776016215
-    },
-    {
-      "name": "What If My Car Kissed Your Car?",
-      "artist": "Sunday Cruise",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/df2ade59eddc770b1c1d13a07e9258b0.jpg",
-      "nowPlaying": false,
-      "timestamp": 1776016044
     }
   ]
 }

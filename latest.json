@@ -1,11 +1,11 @@
 {
   "tracks": [
     {
-      "name": "Lacrymosa",
-      "artist": "Evanescence",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a15c4f3ac52e8d53d14a1ae917c88a7b.png",
-      "nowPlaying": true,
-      "timestamp": null
+      "name": "Ferris Wheel on Fire - 1993",
+      "artist": "Neutral Milk Hotel",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a236100e4f79931bd7f37a26af13c136.jpg",
+      "nowPlaying": false,
+      "timestamp": 1776185606
     },
     {
       "name": "Chiwawa",

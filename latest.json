@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Lampu Merah",
-      "artist": "The Lantis",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5991ea63419e6a8adfa747cf9fb9ef60.jpg",
+      "name": "Laskar Cinta \"Chapter One\"",
+      "artist": "Dewa 19",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f63a4949f735d88407ccf542a1281e89.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "nobodycanfightmecausewheneverilookmyeyesturnredtheygetscaredofme",
-      "artist": "Amene",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8fea6fe980dd5a97b1662439b0606f23.jpg",
+      "name": "Mandi Biar Wangi ☆ Washa Washa!",
+      "artist": "Kobo Kanaeru",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a0a6f8f9a8adcaaa84706b7e8e97fa6e.jpg",
       "nowPlaying": false,
-      "timestamp": 1776605394
+      "timestamp": 1776608230
     },
     {
-      "name": "Ariane's Theme (Gestaltzerfall)",
-      "artist": "1000 Eyes",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1c232dacc4df0d713abc72bdd2be9a42.png",
+      "name": "Dia maha sempurna",
+      "artist": "Ungu",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a821e623ce722658e2dede01f3ff3895.jpg",
       "nowPlaying": false,
-      "timestamp": 1776605205
+      "timestamp": 1776608002
     },
     {
-      "name": "Second Sleep",
-      "artist": "Magdalena Bay",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6165020a40ac3faa6e305c974bac16fc.jpg",
+      "name": "Sesungguhnya",
+      "artist": "Ungu",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/392053a3b6e3cd84b0592246bdf0764e.jpg",
       "nowPlaying": false,
-      "timestamp": 1776604921
+      "timestamp": 1776607769
     },
     {
-      "name": "Chemical Overreaction / Compound Fracture - 2020 Remastered Version",
-      "artist": "Will Wood and the Tapeworms",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f56f5a6bf0c245fed014c3f51ee327ad.jpg",
+      "name": "Ku Bahagia",
+      "artist": "Melly Goeslaw",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6b826f59b7235b2572a75bfbb6071c59.jpg",
       "nowPlaying": false,
-      "timestamp": 1776604723
+      "timestamp": 1776607594
     }
   ]
 }

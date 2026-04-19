@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Oh My My",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e9ea50ead487400accd84a0a3a9212d8.jpg",
+      "name": "Lampu Merah",
+      "artist": "The Lantis",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5991ea63419e6a8adfa747cf9fb9ef60.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "Babs Seed",
-      "artist": "Sweetie Belle",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/67ec557f0f8bffa5c74def9ad442c6e8.jpg",
+      "name": "nobodycanfightmecausewheneverilookmyeyesturnredtheygetscaredofme",
+      "artist": "Amene",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8fea6fe980dd5a97b1662439b0606f23.jpg",
       "nowPlaying": false,
-      "timestamp": 1776601637
+      "timestamp": 1776605394
     },
     {
-      "name": "The Perfect Christmas",
-      "artist": "BlushCrunch Studio",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1c6b15a26a8929df362f8b0cf4e93ed6.jpg",
+      "name": "Ariane's Theme (Gestaltzerfall)",
+      "artist": "1000 Eyes",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1c232dacc4df0d713abc72bdd2be9a42.png",
       "nowPlaying": false,
-      "timestamp": 1776601366
+      "timestamp": 1776605205
     },
     {
-      "name": "Downtime With Dyle",
-      "artist": "BlushCrunch Studio",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/13b7c53df8330972ef307bdf62b03ca6.jpg",
+      "name": "Second Sleep",
+      "artist": "Magdalena Bay",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6165020a40ac3faa6e305c974bac16fc.jpg",
       "nowPlaying": false,
-      "timestamp": 1776601245
+      "timestamp": 1776604921
     },
     {
-      "name": "The Perfect Christmas",
-      "artist": "BlushCrunch Studio",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1c6b15a26a8929df362f8b0cf4e93ed6.jpg",
+      "name": "Chemical Overreaction / Compound Fracture - 2020 Remastered Version",
+      "artist": "Will Wood and the Tapeworms",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f56f5a6bf0c245fed014c3f51ee327ad.jpg",
       "nowPlaying": false,
-      "timestamp": 1776601000
+      "timestamp": 1776604723
     }
   ]
 }

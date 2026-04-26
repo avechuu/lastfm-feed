@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Pretty Peach",
-      "artist": "Lucy Bedroque",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "name": "Starts With You",
+      "artist": "Wonder",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/48e48829c83fb21b3c466df15ab2f647.png",
+      "nowPlaying": false,
+      "timestamp": 1777219714
     },
     {
-      "name": "Knot Me",
-      "artist": "Lucy Bedroque",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "name": "i never wanted anything so badly",
+      "artist": "yeongseo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2df084c565a2b5df7a9e3b919dc4a9fa.jpg",
       "nowPlaying": false,
-      "timestamp": 1777218429
+      "timestamp": 1777219597
     },
     {
-      "name": "Hot Boy",
-      "artist": "Lucy Bedroque",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "name": "CLOVER",
+      "artist": "Cannelle",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/da1660d246d934ac5fee0a46e23db3ee.jpg",
       "nowPlaying": false,
-      "timestamp": 1777218322
+      "timestamp": 1777219449
     },
     {
-      "name": "How To Pretend",
-      "artist": "Lucy Bedroque",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "name": "How To Teleport",
+      "artist": "Jane Remover",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6fb5b5b2eda71c36cb73d17571251190.jpg",
       "nowPlaying": false,
-      "timestamp": 1777218080
+      "timestamp": 1777219181
     },
     {
-      "name": "I Am, She Is, We Are",
-      "artist": "Lucy Bedroque",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "name": "beReal",
+      "artist": "Clark Rainbow",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/eb6632113ac2a962aba8fbdfe5731e33.jpg",
       "nowPlaying": false,
-      "timestamp": 1777217862
+      "timestamp": 1777219048
     }
   ]
 }

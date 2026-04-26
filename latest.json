@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "London",
-      "artist": "Third Eye Blind",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0ad86c0aaf691af7a9a9fd4d5b2ed441.png",
-      "nowPlaying": false,
-      "timestamp": 1777213490
-    },
-    {
-      "name": "Tout Naturel",
+      "name": "Pretty Peach",
       "artist": "Lucy Bedroque",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a4d4343e730ea2902a90058284ffe0da.jpg",
-      "nowPlaying": false,
-      "timestamp": 1777213343
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Lacrymosa",
-      "artist": "Evanescence",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a15c4f3ac52e8d53d14a1ae917c88a7b.png",
+      "name": "Knot Me",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
       "nowPlaying": false,
-      "timestamp": 1777213130
+      "timestamp": 1777218429
     },
     {
-      "name": "Join Me In Death - Strongroom Mix",
-      "artist": "HIM",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9eaa7a6c73d741158b8f3bcc36a5d8f1.jpg",
+      "name": "Hot Boy",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
       "nowPlaying": false,
-      "timestamp": 1777212917
+      "timestamp": 1777218322
     },
     {
-      "name": "I hate december",
-      "artist": "Clark Rainbow",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/33f6bbbe44fd1b389314438c1066a891.jpg",
+      "name": "How To Pretend",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
       "nowPlaying": false,
-      "timestamp": 1777212702
+      "timestamp": 1777218080
+    },
+    {
+      "name": "I Am, She Is, We Are",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "nowPlaying": false,
+      "timestamp": 1777217862
     }
   ]
 }

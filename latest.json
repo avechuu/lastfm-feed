@@ -1,13 +1,6 @@
 {
   "tracks": [
     {
-      "name": "STOP",
-      "artist": "Labirhin",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/27ca9033898c6d01185d3b6e975488df.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
       "name": "Ini Lagi",
       "artist": "Labirhin",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/27ca9033898c6d01185d3b6e975488df.jpg",
@@ -34,6 +27,13 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/88ea705e99c07e1a0cab9c82e4f89574.jpg",
       "nowPlaying": false,
       "timestamp": 1777780239
+    },
+    {
+      "name": "Pretty Peach",
+      "artist": "Lucy Bedroque",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "nowPlaying": false,
+      "timestamp": 1777780055
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
   "tracks": [
     {
+      "name": "Bloody Devastation (From \"Grace\") - Metal Cover",
+      "artist": "Dethraxx",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1779109056
+    },
+    {
+      "name": "Your Love Is a Drug (Insaneintherain Arrange) [Bonus Track]",
+      "artist": "Garoad",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a47e9e8810a933ab335bc454b95085a3.png",
+      "nowPlaying": false,
+      "timestamp": 1779078543
+    },
+    {
       "name": "Dial 143",
       "artist": "Jomm",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/31ef06b599ae112f6d37ad5fd532c9e2.jpg",
@@ -20,20 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/61c1fbaf1a3d6719522fd231532191c2.jpg",
       "nowPlaying": false,
       "timestamp": 1779077840
-    },
-    {
-      "name": "Stress Relief",
-      "artist": "late night drive home",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3ebab0f7ce4e3a8fc2334f811427df6f.jpg",
-      "nowPlaying": false,
-      "timestamp": 1779077634
-    },
-    {
-      "name": "Harvey",
-      "artist": "Her's",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3dfc90eece3bcdfbfe7c860d1f54477b.jpg",
-      "nowPlaying": false,
-      "timestamp": 1779077461
     }
   ]
 }

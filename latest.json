@@ -1,11 +1,25 @@
 {
   "tracks": [
     {
+      "name": "GMFU (w/ 6arelyhuman)",
+      "artist": "Odetari",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/342637cdad94156174da953d9d29d099.jpg",
+      "nowPlaying": false,
+      "timestamp": 1779253135
+    },
+    {
+      "name": "KATAMARI",
+      "artist": "femtanyl",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cf73db3aaf8710a588e4cb9c239ea555.jpg",
+      "nowPlaying": false,
+      "timestamp": 1779251965
+    },
+    {
       "name": "Using You",
       "artist": "Mars Argo",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/61c1fbaf1a3d6719522fd231532191c2.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1779251599
     },
     {
       "name": "Wet",
@@ -20,20 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/6184a5da716f4ac98a568593db7ad72f.jpg",
       "nowPlaying": false,
       "timestamp": 1779251186
-    },
-    {
-      "name": "All My Best Friends Are Metalheads",
-      "artist": "Less Than Jake",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7da7a1a48cba43ac8e81bf1b1026080a.png",
-      "nowPlaying": false,
-      "timestamp": 1779250900
-    },
-    {
-      "name": "Dinosaurs Go Rawr",
-      "artist": "Amy Can Flyy",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3f88cdaef8c14dfeb858f3b95d658bad.jpg",
-      "nowPlaying": false,
-      "timestamp": 1779250641
     }
   ]
 }

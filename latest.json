@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Stag Party (GABBERSTÄG)",
-      "artist": "flvtter",
+      "name": "yuzu soda",
+      "artist": "AZALI",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1779688340
+      "timestamp": 1779701257
     },
     {
-      "name": "Line Without a Hook (feat. mxmtoon)",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d3a480ad546119781197b1a3f1660cd.jpg",
+      "name": "Frizk Fundamentals!",
+      "artist": "Frizk",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6adfac702609e8db5377e84d3b89b7aa.jpg",
       "nowPlaying": false,
-      "timestamp": 1779676058
+      "timestamp": 1779701136
     },
     {
-      "name": "Mr. Loverman (feat. chloe moriondo)",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/089d95ac0f5ac0782bf62d4b222860f0.jpg",
+      "name": "mintbeat",
+      "artist": "Frizk",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c8927a83e8a01bda60a1da9f06a11d5d.jpg",
       "nowPlaying": false,
-      "timestamp": 1779675842
+      "timestamp": 1779701025
     },
     {
-      "name": "Inside Her",
-      "artist": "GEZEBELLE GABURGABLY",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
+      "name": "I Never Feel Alone",
+      "artist": "Frizk",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ea688614294dc9e1db1bdf4295a3e9e7.jpg",
       "nowPlaying": false,
-      "timestamp": 1779675608
+      "timestamp": 1779700931
     },
     {
-      "name": "Stag Party (GABBERSTÄG)",
-      "artist": "flvtter",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "முன்னுதாரணம்",
+      "artist": "Tanger",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b20d9e4e73dc3a70c45bd99196053550.png",
       "nowPlaying": false,
-      "timestamp": 1779675427
+      "timestamp": 1779700683
     }
   ]
 }

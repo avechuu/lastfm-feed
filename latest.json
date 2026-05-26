@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "yuzu soda",
-      "artist": "AZALI",
+      "name": "yūsei",
+      "artist": "yesmcx",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bb12031cdeb08facd649d773d16a5ba1.jpg",
+      "nowPlaying": false,
+      "timestamp": 1779758058
+    },
+    {
+      "name": "KANDANG KEKUATAN SUPER",
+      "artist": "Labirhin",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/76d12ba738c26ea39e853f1686dc74d4.jpg",
+      "nowPlaying": false,
+      "timestamp": 1779757914
+    },
+    {
+      "name": "iiijustwannadance",
+      "artist": "Remara",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1779701257
+      "timestamp": 1779757769
     },
     {
-      "name": "Frizk Fundamentals!",
+      "name": "Hope You Killas Understand Me",
+      "artist": "iwamizu",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b302820ecb3cf32d391e0f07d9dfd481.jpg",
+      "nowPlaying": false,
+      "timestamp": 1779757563
+    },
+    {
+      "name": "not askin 4 much",
       "artist": "Frizk",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6adfac702609e8db5377e84d3b89b7aa.jpg",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b58e0e35540068c58ce9a6d9a90dbcb4.jpg",
       "nowPlaying": false,
-      "timestamp": 1779701136
-    },
-    {
-      "name": "mintbeat",
-      "artist": "Frizk",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c8927a83e8a01bda60a1da9f06a11d5d.jpg",
-      "nowPlaying": false,
-      "timestamp": 1779701025
-    },
-    {
-      "name": "I Never Feel Alone",
-      "artist": "Frizk",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ea688614294dc9e1db1bdf4295a3e9e7.jpg",
-      "nowPlaying": false,
-      "timestamp": 1779700931
-    },
-    {
-      "name": "முன்னுதாரணம்",
-      "artist": "Tanger",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b20d9e4e73dc3a70c45bd99196053550.png",
-      "nowPlaying": false,
-      "timestamp": 1779700683
+      "timestamp": 1779757429
     }
   ]
 }

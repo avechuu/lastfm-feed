@@ -1,11 +1,18 @@
 {
   "tracks": [
     {
+      "name": "letters never sent",
+      "artist": "Everyone Asked About You",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ee91bc11a30de07f0c3512aeb1759742.jpg",
+      "nowPlaying": false,
+      "timestamp": 1779846790
+    },
+    {
       "name": "A Better Way to a Broken Heart",
       "artist": "Everyone Asked About You",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/78d1203e9d689ae42ff5f880741ee0f1.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1779846640
     },
     {
       "name": "Everyone Asked About You",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/78d1203e9d689ae42ff5f880741ee0f1.jpg",
       "nowPlaying": false,
       "timestamp": 1779845996
-    },
-    {
-      "name": "handsome, beautiful",
-      "artist": "Everyone Asked About You",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78d1203e9d689ae42ff5f880741ee0f1.jpg",
-      "nowPlaying": false,
-      "timestamp": 1779845625
     }
   ]
 }

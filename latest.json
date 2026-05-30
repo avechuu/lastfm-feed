@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Unintended",
-      "artist": "Muse",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3155ff2e04252a98d8f6d0847c60c464.jpg",
+      "name": "Sesungguhnya",
+      "artist": "Ungu",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/392053a3b6e3cd84b0592246bdf0764e.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "Just Be Competent",
-      "artist": "r u s s e l b u c k",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c700b946010fb372aee934f013f88584.jpg",
+      "name": "Ku Bahagia",
+      "artist": "Melly Goeslaw",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6b826f59b7235b2572a75bfbb6071c59.jpg",
       "nowPlaying": false,
-      "timestamp": 1780141042
+      "timestamp": 1780144929
     },
     {
-      "name": "Impostor Syndrome",
-      "artist": "Sidney Gish",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/397eeecef4b74c1b026b20e013e98451.png",
+      "name": "Hours",
+      "artist": "Betu",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6d734107babe0aa30e53dcc5e35bb294.jpg",
       "nowPlaying": false,
-      "timestamp": 1780140748
+      "timestamp": 1780144652
     },
     {
-      "name": "All Dolled Up",
-      "artist": "The Orion Experience",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/312ccb21bdc14315a137372bf7f874e4.jpg",
+      "name": "Rudy Knows",
+      "artist": "Betu",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6d734107babe0aa30e53dcc5e35bb294.jpg",
       "nowPlaying": false,
-      "timestamp": 1780140544
+      "timestamp": 1780144413
     },
     {
-      "name": "Presumably Dead Arm - 617 Sessions",
-      "artist": "Sidney Gish",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/271c3cd6d133774503dee96e284bdf75.jpg",
+      "name": "Rivers Is A Vampire",
+      "artist": "Bear Ghost",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/05ffdacc42e6b9c0b4f8f0f2424b4fb4.jpg",
       "nowPlaying": false,
-      "timestamp": 1780140330
+      "timestamp": 1780144227
     }
   ]
 }

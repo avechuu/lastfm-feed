@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Dia maha sempurna",
-      "artist": "Ungu",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a821e623ce722658e2dede01f3ff3895.jpg",
+      "name": "Terranova",
+      "artist": "Janina",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1780145347
+      "timestamp": 1780212916
     },
     {
-      "name": "Sesungguhnya",
-      "artist": "Ungu",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/392053a3b6e3cd84b0592246bdf0764e.jpg",
+      "name": "go-go! shoopergirl!",
+      "artist": "Serani Poji",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f54f367d32a749bcac754912572fb88f.png",
       "nowPlaying": false,
-      "timestamp": 1780145110
+      "timestamp": 1780212623
     },
     {
-      "name": "Ku Bahagia",
-      "artist": "Melly Goeslaw",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6b826f59b7235b2572a75bfbb6071c59.jpg",
+      "name": "スマイリーを探して",
+      "artist": "Serani Poji",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/020a9b807ab1f3e0608335fd857e4fda.jpg",
       "nowPlaying": false,
-      "timestamp": 1780144929
+      "timestamp": 1780212351
     },
     {
-      "name": "Hours",
-      "artist": "Betu",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6d734107babe0aa30e53dcc5e35bb294.jpg",
+      "name": "Too Bummed To Dance",
+      "artist": "Flight by Nothing",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a9d7906b4b0497c6f3a280b16b11baf.jpg",
       "nowPlaying": false,
-      "timestamp": 1780144652
+      "timestamp": 1780212160
     },
     {
-      "name": "Rudy Knows",
-      "artist": "Betu",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6d734107babe0aa30e53dcc5e35bb294.jpg",
+      "name": "Line Without a Hook (feat. mxmtoon)",
+      "artist": "Ricky Montgomery",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d3a480ad546119781197b1a3f1660cd.jpg",
       "nowPlaying": false,
-      "timestamp": 1780144413
+      "timestamp": 1780211908
     }
   ]
 }

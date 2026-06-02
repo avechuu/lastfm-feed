@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "C U Next Tuesday",
-      "artist": "Ke$ha",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0f8380496575216c50610d377333a2c2.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
-      "name": "Ai Đưa Em Về",
-      "artist": "Tia",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b591fc87d36d80bf34bc6d9fab085900.jpg",
+      "name": "Top Pick",
+      "artist": "lucasp007",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1780410835
+      "timestamp": 1780414979
     },
     {
-      "name": "My Destiny - 2026 Edit",
-      "artist": "DelinQuent",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4014a561e919d794d174e45403393c30.jpg",
+      "name": "Versatile",
+      "artist": "Deprezz",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1780410687
+      "timestamp": 1780414845
     },
     {
-      "name": "Chainsaw",
+      "name": "Go Away",
+      "artist": "Weezer",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f9a1b19e001fe2adb697f55df60aacdd.png",
+      "nowPlaying": false,
+      "timestamp": 1780414651
+    },
+    {
+      "name": "Care",
       "artist": "Clark Rainbow",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/991320e6cc3727f2dcc0532453c1794a.jpg",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/01ace886b4a60c7dcd92bf3110970234.jpg",
       "nowPlaying": false,
-      "timestamp": 1780410590
+      "timestamp": 1780414512
     },
     {
-      "name": "poster boy",
-      "artist": "2hollis",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8310c1d00bfc4ff0bc5a88dc666ab135.png",
+      "name": "bedrott - sped up",
+      "artist": "duskydemise archive",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b773e516a094cb7c7ccfb52f924c171f.jpg",
       "nowPlaying": false,
-      "timestamp": 1780410469
+      "timestamp": 1780414404
     }
   ]
 }

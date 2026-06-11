@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "shut ur mouth (pls)",
-      "artist": "Crustsox",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/831bf0d8ddf19a8bee70a9678147c43c.jpg",
-      "nowPlaying": false,
-      "timestamp": 1781189773
+      "name": "Lurasidone",
+      "artist": "Cyborg9K",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/25bea4367fd218a2a109a75f7a774a33.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "I / Me / Myself",
-      "artist": "Will Wood",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d4b95776189e3985174cfa22938642dc.jpg",
+      "name": "My pills",
+      "artist": "Dumb As Rocks",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/dc5949bd4f9aca55f65222afe7d755ea.jpg",
       "nowPlaying": false,
-      "timestamp": 1781188467
+      "timestamp": 1781221238
     },
     {
-      "name": "FLUXO TROPICAL (Super Slowed)",
-      "artist": "-Prey",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b075c783f1ef0ea34cf93bbbb976316b.jpg",
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/29051e14d6e1102634f09be0e1850683.jpg",
       "nowPlaying": false,
-      "timestamp": 1781188084
+      "timestamp": 1781221088
     },
     {
-      "name": "MELODIA CAVALGADA - Slowed",
-      "artist": "DJ Javi26",
+      "name": "Mom Friend",
+      "artist": "KittenSneeze",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1781187999
+      "timestamp": 1781220913
     },
     {
-      "name": "BREGA DO LOVE (SUPER SLOWED)",
-      "artist": "Nxxkz",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ddbd5d38872d4e19e110d74ddaab1575.jpg",
+      "name": "Caskets For Two",
+      "artist": "Bury Me With You",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8e1ebb7f3fd667409294049d2ade2258.jpg",
       "nowPlaying": false,
-      "timestamp": 1781187861
+      "timestamp": 1781220637
     }
   ]
 }

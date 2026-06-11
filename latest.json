@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Machine Love Medley",
-      "artist": "Jamie Paige",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2e8b0786250491b59ebe317ad378c523.jpg",
+      "name": "I / Me / Myself",
+      "artist": "Will Wood",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d4b95776189e3985174cfa22938642dc.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "Oh My My",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e9ea50ead487400accd84a0a3a9212d8.jpg",
+      "name": "FLUXO TROPICAL (Super Slowed)",
+      "artist": "-Prey",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b075c783f1ef0ea34cf93bbbb976316b.jpg",
       "nowPlaying": false,
-      "timestamp": 1781175225
+      "timestamp": 1781188084
     },
     {
-      "name": "It's Getting Late so Early These Days",
-      "artist": "Thesaurus Rex",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e9849224e8c37eec70df2f41bbf6602.jpg",
+      "name": "MELODIA CAVALGADA - Slowed",
+      "artist": "DJ Javi26",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1781174942
+      "timestamp": 1781187999
     },
     {
-      "name": "Lore",
-      "artist": "Dom Fera",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/20804a8a8657d9830002dd90343f7eae.jpg",
+      "name": "BREGA DO LOVE (SUPER SLOWED)",
+      "artist": "Nxxkz",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ddbd5d38872d4e19e110d74ddaab1575.jpg",
       "nowPlaying": false,
-      "timestamp": 1781174749
+      "timestamp": 1781187861
     },
     {
-      "name": "Babs Seed",
-      "artist": "Sweetie Belle",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/67ec557f0f8bffa5c74def9ad442c6e8.jpg",
+      "name": "DEAD WRONG FUNK - Ultra Slowed",
+      "artist": "-Prey",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/23cd6306d59bae5d56d8458c3e897a69.jpg",
       "nowPlaying": false,
-      "timestamp": 1781174636
+      "timestamp": 1781187759
     }
   ]
 }

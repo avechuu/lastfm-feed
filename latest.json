@@ -1,11 +1,18 @@
 {
   "tracks": [
     {
+      "name": "shut ur mouth (pls)",
+      "artist": "Crustsox",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/831bf0d8ddf19a8bee70a9678147c43c.jpg",
+      "nowPlaying": false,
+      "timestamp": 1781189773
+    },
+    {
       "name": "I / Me / Myself",
       "artist": "Will Wood",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/d4b95776189e3985174cfa22938642dc.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1781188467
     },
     {
       "name": "FLUXO TROPICAL (Super Slowed)",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/ddbd5d38872d4e19e110d74ddaab1575.jpg",
       "nowPlaying": false,
       "timestamp": 1781187861
-    },
-    {
-      "name": "DEAD WRONG FUNK - Ultra Slowed",
-      "artist": "-Prey",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/23cd6306d59bae5d56d8458c3e897a69.jpg",
-      "nowPlaying": false,
-      "timestamp": 1781187759
     }
   ]
 }

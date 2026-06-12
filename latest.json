@@ -1,6 +1,20 @@
 {
   "tracks": [
     {
+      "name": "Surabaya",
+      "artist": "Crayon Case",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6a5ae8d6363f874cc99ce34ebbd65f68.jpg",
+      "nowPlaying": false,
+      "timestamp": 1781246247
+    },
+    {
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/29051e14d6e1102634f09be0e1850683.jpg",
+      "nowPlaying": false,
+      "timestamp": 1781243975
+    },
+    {
       "name": "Mom Friend",
       "artist": "KittenSneeze",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -20,20 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/8e1ebb7f3fd667409294049d2ade2258.jpg",
       "nowPlaying": false,
       "timestamp": 1781243302
-    },
-    {
-      "name": "Scammer Symphony - Full Version",
-      "artist": "BruhSalino",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "nowPlaying": false,
-      "timestamp": 1781243057
-    },
-    {
-      "name": "Not Worth Your Time",
-      "artist": "Crustsox",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/69538065565887c627e1e98feb154b1f.jpg",
-      "nowPlaying": false,
-      "timestamp": 1781235012
     }
   ]
 }

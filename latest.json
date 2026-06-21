@@ -1,13 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Kindness, She's So Jealous",
-      "artist": "Yulia",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a616019004252fd5333bc9601cacfd3d.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
       "name": "Goodnight, Kindness",
       "artist": "Yulia",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/a616019004252fd5333bc9601cacfd3d.jpg",
@@ -34,6 +27,13 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/a616019004252fd5333bc9601cacfd3d.jpg",
       "nowPlaying": false,
       "timestamp": 1782007635
+    },
+    {
+      "name": "A Desiccated Rose",
+      "artist": "Yulia",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a616019004252fd5333bc9601cacfd3d.jpg",
+      "nowPlaying": false,
+      "timestamp": 1781957782
     }
   ]
 }

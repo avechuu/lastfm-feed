@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "True Kinda Love (feat. Estelle & Zach Callison)",
-      "artist": "Steven Universe",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/76ac019d9a1d47f296bb9bc8a6095535.jpg",
+      "name": "The Dark Lord's Wrath Boss Battle",
+      "artist": "3 Déesses",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "Bonus Game Over (From Swimmy Barnaby)",
-      "artist": "BlushCrunch Studio",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/39e0d670def07c6cb920d57846dc517b.jpg",
+      "name": "Cat Cafe",
+      "artist": "Tsundere Twintails",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/900be0d4d6a9ca5bdcdbb39c07fcc428.jpg",
       "nowPlaying": false,
-      "timestamp": 1782648034
+      "timestamp": 1782655347
     },
     {
-      "name": "End Credits",
-      "artist": "Thirty First Moon",
+      "name": "Goodnight bean",
+      "artist": "Stuffiwantisherenow",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1782647920
+      "timestamp": 1782655228
     },
     {
-      "name": "Caskets For Two",
-      "artist": "Bury Me With You",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8e1ebb7f3fd667409294049d2ade2258.jpg",
+      "name": "ocean eyes",
+      "artist": "Billie Eilish",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/27d83f93d2c848c70354aaf771b103eb.jpg",
       "nowPlaying": false,
-      "timestamp": 1782647585
+      "timestamp": 1782655027
     },
     {
-      "name": "Scammer Symphony - Full Version",
-      "artist": "BruhSalino",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "Rose's Fountain",
+      "artist": "Steven Universe",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/943fbee6ace509dca7afd139eb86be76.jpg",
       "nowPlaying": false,
-      "timestamp": 1782647391
+      "timestamp": 1782654962
     }
   ]
 }

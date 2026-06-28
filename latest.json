@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Isn't She Lovely",
-      "artist": "Stevie Wonder",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7aad036892961c53fa054ad863444add.jpg",
-      "nowPlaying": false,
-      "timestamp": 1782634924
+      "name": "True Kinda Love (feat. Estelle & Zach Callison)",
+      "artist": "Steven Universe",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/76ac019d9a1d47f296bb9bc8a6095535.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Sir Duke",
-      "artist": "Stevie Wonder",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/02f18167ffe180e4a2f1c39594cfd94d.jpg",
+      "name": "Bonus Game Over (From Swimmy Barnaby)",
+      "artist": "BlushCrunch Studio",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/39e0d670def07c6cb920d57846dc517b.jpg",
       "nowPlaying": false,
-      "timestamp": 1782615713
+      "timestamp": 1782648034
     },
     {
-      "name": "Calm Down Juliet (What A Drama Queen)",
-      "artist": "SycAmour",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/fc5b187e7918912c4610f24707da62bd.jpg",
+      "name": "End Credits",
+      "artist": "Thirty First Moon",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1782615495
+      "timestamp": 1782647920
     },
     {
-      "name": "TOMANO KATUKADA",
-      "artist": "shonci",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4d18a86d5b1dd1e87e9d7cfc03f87baf.jpg",
+      "name": "Caskets For Two",
+      "artist": "Bury Me With You",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8e1ebb7f3fd667409294049d2ade2258.jpg",
       "nowPlaying": false,
-      "timestamp": 1782615365
+      "timestamp": 1782647585
     },
     {
-      "name": "Ela ké Leitada",
-      "artist": "Prod.Nifour",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/105f9a5e0bfb501133f2507cda234be7.jpg",
+      "name": "Scammer Symphony - Full Version",
+      "artist": "BruhSalino",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1782576128
+      "timestamp": 1782647391
     }
   ]
 }

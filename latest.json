@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "The Dark Lord's Wrath Boss Battle",
+      "name": "The Darker Lord's Theme",
       "artist": "3 Déesses",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
-      "name": "Cat Cafe",
-      "artist": "Tsundere Twintails",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/900be0d4d6a9ca5bdcdbb39c07fcc428.jpg",
       "nowPlaying": false,
-      "timestamp": 1782655347
+      "timestamp": 1782660091
     },
     {
-      "name": "Goodnight bean",
-      "artist": "Stuffiwantisherenow",
+      "name": "I Love You Like A Table",
+      "artist": "Christopher Fitzgerald",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8a054ce67f35c58dd91d3c9ef230254c.jpg",
+      "nowPlaying": false,
+      "timestamp": 1782659975
+    },
+    {
+      "name": "Baby Pufferfish",
+      "artist": "justan oval",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1782655228
+      "timestamp": 1782659900
     },
     {
-      "name": "ocean eyes",
-      "artist": "Billie Eilish",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/27d83f93d2c848c70354aaf771b103eb.jpg",
+      "name": "I LOVE BUGS",
+      "artist": "cherrybee",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1782655027
+      "timestamp": 1782659802
     },
     {
-      "name": "Rose's Fountain",
-      "artist": "Steven Universe",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/943fbee6ace509dca7afd139eb86be76.jpg",
+      "name": "Your Idol",
+      "artist": "Saja Boys",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/da4cf821f9af1e08cd833662a341b5d7.jpg",
       "nowPlaying": false,
-      "timestamp": 1782654962
+      "timestamp": 1782659610
     }
   ]
 }

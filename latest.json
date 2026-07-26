@@ -1,6 +1,20 @@
 {
   "tracks": [
     {
+      "name": "Mystery Girl (Revamped)",
+      "artist": "Housecall",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e3fe7f3d84afd17bf282fe188db6514e.jpg",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
+      "name": "Magenta Placenta",
+      "artist": "GEZEBELLE GABURGABLY",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2c846375adb62d99efaba8a77bef99c3.jpg",
+      "nowPlaying": false,
+      "timestamp": 1784994086
+    },
+    {
       "name": "shut ur mouth (pls)",
       "artist": "Crustsox",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/831bf0d8ddf19a8bee70a9678147c43c.jpg",
@@ -20,20 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/25bea4367fd218a2a109a75f7a774a33.jpg",
       "nowPlaying": false,
       "timestamp": 1784993616
-    },
-    {
-      "name": "Sidearm and Compass",
-      "artist": "Cyborg9K",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/25bea4367fd218a2a109a75f7a774a33.jpg",
-      "nowPlaying": false,
-      "timestamp": 1784993519
-    },
-    {
-      "name": "Accessory",
-      "artist": "Cyborg9K",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/25bea4367fd218a2a109a75f7a774a33.jpg",
-      "nowPlaying": false,
-      "timestamp": 1784993280
     }
   ]
 }

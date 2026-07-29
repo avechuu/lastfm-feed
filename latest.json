@@ -1,11 +1,18 @@
 {
   "tracks": [
     {
-      "name": "Abstraction - Big Band Version",
+      "name": "Mom Friend (Instrumental)",
       "artist": "KittenSneeze",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/63ec358ea92e1412f24dd0e641e0457b.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f91e4c30b8aad167a36eac66927dfb8e.png",
+      "nowPlaying": false,
+      "timestamp": 1785317556
+    },
+    {
+      "name": "Mom Friend",
+      "artist": "KittenSneeze",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f91e4c30b8aad167a36eac66927dfb8e.png",
+      "nowPlaying": false,
+      "timestamp": 1785317383
     },
     {
       "name": "Mom Friend (Vocals Only)",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/f91e4c30b8aad167a36eac66927dfb8e.png",
       "nowPlaying": false,
       "timestamp": 1785316736
-    },
-    {
-      "name": "Our Season",
-      "artist": "YonKaGor",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/fa80b3e409a315c397209a7fe09ca0aa.png",
-      "nowPlaying": false,
-      "timestamp": 1785232117
     }
   ]
 }

@@ -1,13 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Folie à Deux",
-      "artist": "STOMACH BOOK",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8ead242813b913055c12404eedff34ed.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
       "name": "Willow Tree",
       "artist": "innlet",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/74fe43148830979dba6fe54ad0bd91ad.jpg",
@@ -34,6 +27,13 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/19c459608ce17fe870f4e8b75d7b2879.jpg",
       "nowPlaying": false,
       "timestamp": 1785592362
+    },
+    {
+      "name": "I'm Poppy",
+      "artist": "Poppy",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f94bc2235f6e15cd4ec679371b328440.png",
+      "nowPlaying": false,
+      "timestamp": 1785592174
     }
   ]
 }

@@ -1,13 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Our Season",
-      "artist": "YonKaGor",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d09d73362c7d0af1be59f04d05da9f59.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
       "name": "which way to the rodeo?",
       "artist": "Mason Ignacio",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -34,6 +27,13 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/f91e4c30b8aad167a36eac66927dfb8e.png",
       "nowPlaying": false,
       "timestamp": 1785711480
+    },
+    {
+      "name": "Paparazzi (Dubstep)",
+      "artist": "Alximo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f16af5aedff207e9a0bd5c734538f9ad.png",
+      "nowPlaying": false,
+      "timestamp": 1785711306
     }
   ]
 }

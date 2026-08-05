@@ -1,6 +1,27 @@
 {
   "tracks": [
     {
+      "name": "Cutie Mew Mew Magic",
+      "artist": "Toby Fox",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7b7ddb5c645209ca789138f0dccecf67.jpg",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
+      "name": "Cutie Mew Mew Magic",
+      "artist": "Toby Fox",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7b7ddb5c645209ca789138f0dccecf67.jpg",
+      "nowPlaying": false,
+      "timestamp": 1785971530
+    },
+    {
+      "name": "go-go! shoopergirl!",
+      "artist": "Serani Poji",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f54f367d32a749bcac754912572fb88f.png",
+      "nowPlaying": false,
+      "timestamp": 1785922739
+    },
+    {
       "name": "スマイリーを探して",
       "artist": "Serani Poji",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/020a9b807ab1f3e0608335fd857e4fda.jpg",
@@ -13,27 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a9d7906b4b0497c6f3a280b16b11baf.jpg",
       "nowPlaying": false,
       "timestamp": 1785921591
-    },
-    {
-      "name": "Line Without a Hook (feat. mxmtoon)",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d3a480ad546119781197b1a3f1660cd.jpg",
-      "nowPlaying": false,
-      "timestamp": 1785921339
-    },
-    {
-      "name": "Mr. Loverman (feat. chloe moriondo)",
-      "artist": "Ricky Montgomery",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/089d95ac0f5ac0782bf62d4b222860f0.jpg",
-      "nowPlaying": false,
-      "timestamp": 1785921123
-    },
-    {
-      "name": "Inside Her",
-      "artist": "GEZEBELLE GABURGABLY",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bb13b935d6014c1cd20e17d8e82f95fd.jpg",
-      "nowPlaying": false,
-      "timestamp": 1785920889
     }
   ]
 }

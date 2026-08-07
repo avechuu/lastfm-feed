@@ -1,6 +1,20 @@
 {
   "tracks": [
     {
+      "name": "Hidup Mati Dan Terluka",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786081261
+    },
+    {
+      "name": "Gun To My Head",
+      "artist": "Malcolm Todd",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/59aac80ce0bc2b2a62b0abe7721f58c8.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786079054
+    },
+    {
       "name": "Raga",
       "artist": "Naykilla",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad45443ba5d2137ef0fdf2736e7de09e.jpg",
@@ -20,20 +34,6 @@
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ed22cb93edaea5472192f0158735812b.png",
       "nowPlaying": false,
       "timestamp": 1786075516
-    },
-    {
-      "name": "Garam & Madu (Sakit Dadaku)",
-      "artist": "Tenxi",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c617873be2387de4836620257bedec95.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786075331
-    },
-    {
-      "name": "SO ASU",
-      "artist": "Naykilla",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b8b376339c5f49dd211c8787b8cd8db.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786075175
     }
   ]
 }

@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "hibiscus/evening scene",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
-      "nowPlaying": true,
-      "timestamp": null
+      "name": "Have You Ever?",
+      "artist": "Magnolia Celebration",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1786093761
     },
     {
-      "name": "Gravits",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "kamu adalah sebagian dari kota ini, segala musim yang pernah kita lalui",
+      "artist": "The caroline's",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/367ddb4c602b768a58482ef08ea1dba9.jpg",
       "nowPlaying": false,
-      "timestamp": 1786091491
+      "timestamp": 1786093428
     },
     {
-      "name": "because,",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "tempat ternyaman",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
       "nowPlaying": false,
-      "timestamp": 1786091268
+      "timestamp": 1786093163
     },
     {
-      "name": "Neu Automobile",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "Melukis Obituari",
+      "artist": "Secret Hideaway",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1786091021
+      "timestamp": 1786092781
     },
     {
-      "name": "Lyra Intro",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "Eureka",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
       "nowPlaying": false,
-      "timestamp": 1786090911
+      "timestamp": 1786092513
     }
   ]
 }

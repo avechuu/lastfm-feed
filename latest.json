@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "SO ASU",
-      "artist": "Naykilla",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b8b376339c5f49dd211c8787b8cd8db.jpg",
+      "name": "Diujung Malam",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
       "nowPlaying": false,
-      "timestamp": 1786013763
+      "timestamp": 1786061963
     },
     {
-      "name": "Cutie Mew Mew Magic",
-      "artist": "Toby Fox",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7b7ddb5c645209ca789138f0dccecf67.jpg",
+      "name": "Surabaya",
+      "artist": "Crayon Case",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6a5ae8d6363f874cc99ce34ebbd65f68.jpg",
       "nowPlaying": false,
-      "timestamp": 1786012725
+      "timestamp": 1786061717
     },
     {
-      "name": "Diluar Aja",
-      "artist": "Vix3n",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/fdb95221d8e08b6d7880e4a118c837ed.jpg",
+      "name": "Charlie 2 (The Money Grab)",
+      "artist": "That Handsome Devil",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/291141793a3d9625d174761924967507.jpg",
       "nowPlaying": false,
-      "timestamp": 1786012311
+      "timestamp": 1786061542
     },
     {
-      "name": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad64220e1a3e2546ab9fbc578d83443d.jpg",
+      "name": "TERRIBLE THINGS",
+      "artist": "Axie",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ee6bf7f17517fc035092d588eeaad68c.png",
       "nowPlaying": false,
-      "timestamp": 1786012057
+      "timestamp": 1786061262
     },
     {
-      "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
-      "artist": "Calvilas",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/fd8c67add8c0e4c482ac53e7e5e96ae0.png",
+      "name": "TERRIBLE THINGS - Instrumental",
+      "artist": "Axie",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ee6bf7f17517fc035092d588eeaad68c.png",
       "nowPlaying": false,
-      "timestamp": 1786000457
+      "timestamp": 1786061013
     }
   ]
 }

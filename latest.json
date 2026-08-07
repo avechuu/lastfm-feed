@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "LYRA OUTRO",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
-      "nowPlaying": true,
-      "timestamp": null
+      "name": "Raga",
+      "artist": "Naykilla",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad45443ba5d2137ef0fdf2736e7de09e.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786075887
     },
     {
-      "name": "hibiscus/evening scene",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "Geleng Geleng",
+      "artist": "Naykilla",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad45443ba5d2137ef0fdf2736e7de09e.jpg",
       "nowPlaying": false,
-      "timestamp": 1786071649
+      "timestamp": 1786075693
     },
     {
-      "name": "Gravits",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "Kasih Aba Aba",
+      "artist": "Naykilla",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ed22cb93edaea5472192f0158735812b.png",
       "nowPlaying": false,
-      "timestamp": 1786069862
+      "timestamp": 1786075516
     },
     {
-      "name": "because,",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "Garam & Madu (Sakit Dadaku)",
+      "artist": "Tenxi",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c617873be2387de4836620257bedec95.jpg",
       "nowPlaying": false,
-      "timestamp": 1786069641
+      "timestamp": 1786075331
     },
     {
-      "name": "Neu Automobile",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "name": "SO ASU",
+      "artist": "Naykilla",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b8b376339c5f49dd211c8787b8cd8db.jpg",
       "nowPlaying": false,
-      "timestamp": 1786069348
+      "timestamp": 1786075175
     }
   ]
 }

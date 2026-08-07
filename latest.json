@@ -1,13 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Diluar Aja",
-      "artist": "Vix3n",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/fdb95221d8e08b6d7880e4a118c837ed.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
       "name": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad64220e1a3e2546ab9fbc578d83443d.jpg",
@@ -34,6 +27,13 @@
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/367ddb4c602b768a58482ef08ea1dba9.jpg",
       "nowPlaying": false,
       "timestamp": 1786093428
+    },
+    {
+      "name": "tempat ternyaman",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786093163
     }
   ]
 }

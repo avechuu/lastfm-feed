@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Diujung Malam",
-      "artist": "Eleanor Whisper",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786061963
-    },
-    {
-      "name": "Surabaya",
+      "name": "LYRA OUTRO",
       "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6a5ae8d6363f874cc99ce34ebbd65f68.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786061717
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Charlie 2 (The Money Grab)",
-      "artist": "That Handsome Devil",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/291141793a3d9625d174761924967507.jpg",
+      "name": "hibiscus/evening scene",
+      "artist": "Crayon Case",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
       "nowPlaying": false,
-      "timestamp": 1786061542
+      "timestamp": 1786071649
     },
     {
-      "name": "TERRIBLE THINGS",
-      "artist": "Axie",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ee6bf7f17517fc035092d588eeaad68c.png",
+      "name": "Gravits",
+      "artist": "Crayon Case",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
       "nowPlaying": false,
-      "timestamp": 1786061262
+      "timestamp": 1786069862
     },
     {
-      "name": "TERRIBLE THINGS - Instrumental",
-      "artist": "Axie",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ee6bf7f17517fc035092d588eeaad68c.png",
+      "name": "because,",
+      "artist": "Crayon Case",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
       "nowPlaying": false,
-      "timestamp": 1786061013
+      "timestamp": 1786069641
+    },
+    {
+      "name": "Neu Automobile",
+      "artist": "Crayon Case",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "nowPlaying": false,
+      "timestamp": 1786069348
     }
   ]
 }

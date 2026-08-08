@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "Flower Man (English Version) [from DELTARUNE Chapter 5 Game Soundtrack] [With Vocals]",
+      "artist": "Kabaaneko",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1786160044
+    },
+    {
       "name": "Flower Man [With Vocals] Extended Lyrics Boss Theme (From 'Deltarune Chapter 5') - Rock Version",
       "artist": "D.Meletis",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -27,13 +34,6 @@
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7b7ddb5c645209ca789138f0dccecf67.jpg",
       "nowPlaying": false,
       "timestamp": 1786155186
-    },
-    {
-      "name": "Diluar Aja",
-      "artist": "Vix3n",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/fdb95221d8e08b6d7880e4a118c837ed.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786117698
     }
   ]
 }

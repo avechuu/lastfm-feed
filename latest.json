@@ -5,6 +5,13 @@
       "artist": "Kabaaneko",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
+      "timestamp": 1786162809
+    },
+    {
+      "name": "Flower Man (English Version) [from DELTARUNE Chapter 5 Game Soundtrack] [With Vocals]",
+      "artist": "Kabaaneko",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
       "timestamp": 1786160044
     },
     {
@@ -15,25 +22,18 @@
       "timestamp": 1786159847
     },
     {
+      "name": "Devotion [Firstborn Azure Theme] (From 'Forsaken') - Rock Version",
+      "artist": "D.Meletis",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1786159788
+    },
+    {
       "name": "Flower Man [With Vocals] Boss Battle Theme (From 'Deltarune Chapter 5') - Rock Version",
       "artist": "D.Meletis",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
       "timestamp": 1786158988
-    },
-    {
-      "name": "Flower Man [With Vocals] Extended Lyrics Boss Theme (From 'Deltarune Chapter 5') - Rock Version",
-      "artist": "D.Meletis",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "nowPlaying": false,
-      "timestamp": 1786156447
-    },
-    {
-      "name": "Flower Man",
-      "artist": "Toby Fox",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7b7ddb5c645209ca789138f0dccecf67.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786155186
     }
   ]
 }

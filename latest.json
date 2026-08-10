@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Drunk lullaby",
-      "artist": "venturing",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/5d3d4ce171ce7de5c81d800e53424471.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786260924
+      "name": "Mereguk Anti Depresan Lagi",
+      "artist": "The Jansen",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Knot Me",
-      "artist": "Lucy Bedroque",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2f0c497a612dd99da981ca3f6cf8de4e.jpg",
+      "name": "Langit Tak Seharusnya Biru",
+      "artist": "The Jansen",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
       "nowPlaying": false,
-      "timestamp": 1786259902
+      "timestamp": 1786358402
     },
     {
-      "name": "headphones",
-      "artist": "Nafeesisboujee",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "Ku Bukan Mesin Lotremu",
+      "artist": "The Jansen",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
       "nowPlaying": false,
-      "timestamp": 1786259671
+      "timestamp": 1786358189
     },
     {
-      "name": "Love Blur",
-      "artist": "Slayr",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/dd41167ae7f1459fd6df51eaed81db1e.jpg",
+      "name": "SORE DI KEBUN RAYA",
+      "artist": "The Jansen",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
       "nowPlaying": false,
-      "timestamp": 1786259403
+      "timestamp": 1786358075
     },
     {
-      "name": "Keep Me Going (BIRDBRAIN)",
-      "artist": "Slayr",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/04aa2941e8e4ca7284625c1468a561ba.jpg",
+      "name": "Kau Pemeran Utama Di Sebuah Opera",
+      "artist": "The Jansen",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
       "nowPlaying": false,
-      "timestamp": 1786259270
+      "timestamp": 1786357882
     }
   ]
 }

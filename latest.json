@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Ku Bukan Mesin Lotremu",
-      "artist": "The Jansen",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786435031
+      "name": "MALU MALU",
+      "artist": "Dia",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c84235b3a7cd1d9151f6985926fc883d.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Flower Man (English Version) [from DELTARUNE Chapter 5 Game Soundtrack] [With Vocals]",
-      "artist": "Kabaaneko",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "masih_adakah_waktu?",
+      "artist": "Dyolow",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/5e8ebe7b63aef606a1848b7937acb850.jpg",
       "nowPlaying": false,
-      "timestamp": 1786423243
+      "timestamp": 1786448401
     },
     {
-      "name": "Manuver Cerdikmu",
-      "artist": "The Jansen",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
+      "name": "SO ASU",
+      "artist": "Naykilla",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b8b376339c5f49dd211c8787b8cd8db.jpg",
       "nowPlaying": false,
-      "timestamp": 1786359800
+      "timestamp": 1786448245
     },
     {
-      "name": "Dunia Modern Terlalu Depresif, Untukmu Yang Selalu Berekspresif",
-      "artist": "The Jansen",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
+      "name": "ga peka",
+      "artist": "Dia",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/beb437f8b8c0e5d8eef1d24eb0ff03e8.jpg",
       "nowPlaying": false,
-      "timestamp": 1786359580
+      "timestamp": 1786448027
     },
     {
-      "name": "7456",
-      "artist": "The Jansen",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
+      "name": "Raga",
+      "artist": "Naykilla",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ad45443ba5d2137ef0fdf2736e7de09e.jpg",
       "nowPlaying": false,
-      "timestamp": 1786359361
+      "timestamp": 1786447871
     }
   ]
 }

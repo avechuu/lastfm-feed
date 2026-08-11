@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "Manuver Cerdikmu",
+      "artist": "The Jansen",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786359800
+    },
+    {
       "name": "Dunia Modern Terlalu Depresif, Untukmu Yang Selalu Berekspresif",
       "artist": "The Jansen",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
@@ -27,13 +34,6 @@
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
       "nowPlaying": false,
       "timestamp": 1786359017
-    },
-    {
-      "name": "Lalu Lalang Lintas Generasi",
-      "artist": "The Jansen",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ec8ed1227e6ba1fba2b50bb0cee539c9.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786358863
     }
   ]
 }

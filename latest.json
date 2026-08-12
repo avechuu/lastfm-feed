@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "We Tried / We Failed",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7d5eb9f3a54a634a363dc077b1e793c2.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786550114
+    },
+    {
       "name": "Pasien",
       "artist": "Swellow",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/22261a874fee4a44aecd14f1461791aa.jpg",
@@ -27,13 +34,6 @@
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7186a9ca80b3d5708341ff613ab3c3ff.jpg",
       "nowPlaying": false,
       "timestamp": 1786549259
-    },
-    {
-      "name": "Utara",
-      "artist": "Skandal",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/29a10d8a404a2bc5d3a6d24268c53af3.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786549045
     }
   ]
 }

@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "warna primer",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
+      "artist": "Calvilas",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/fd8c67add8c0e4c482ac53e7e5e96ae0.png",
+      "nowPlaying": false,
+      "timestamp": 1786512444
     },
     {
-      "name": "kucing liar",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
+      "name": "MALU MALU",
+      "artist": "Dia",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c84235b3a7cd1d9151f6985926fc883d.jpg",
       "nowPlaying": false,
-      "timestamp": 1786509847
+      "timestamp": 1786512238
     },
     {
-      "name": "bianglala",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
+      "name": "Labirin",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
       "nowPlaying": false,
-      "timestamp": 1786509610
+      "timestamp": 1786511994
     },
     {
-      "name": "sekarang",
+      "name": "Kamboja",
       "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2e6a480f6a7b9f99b95ea17f3523780f.jpg",
       "nowPlaying": false,
-      "timestamp": 1786509435
+      "timestamp": 1786511729
     },
     {
-      "name": "seperti bunga",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
+      "name": "because,",
+      "artist": "Crayon Case",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/b91258f1a87ce54e37fa0a3fb9f69562.jpg",
       "nowPlaying": false,
-      "timestamp": 1786509188
+      "timestamp": 1786511496
     }
   ]
 }

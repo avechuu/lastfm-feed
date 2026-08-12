@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Pour Moi",
-      "artist": "Eleanor Whisper",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
+      "name": "Kita Semua Kalah",
+      "artist": "Swellow",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/22261a874fee4a44aecd14f1461791aa.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "For All The Dreams That Wings Could Fly",
-      "artist": "Themilo",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/f33700b63f5343b28527c61aaf68c518.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786545154
-    },
-    {
-      "name": "Neu Automobile",
-      "artist": "Crayon Case",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
-      "nowPlaying": false,
-      "timestamp": 1786544904
-    },
-    {
-      "name": "Simpul",
-      "artist": "Swellow",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/22261a874fee4a44aecd14f1461791aa.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786544671
-    },
-    {
-      "name": "Rumah Hantu",
+      "name": "Pelikan",
       "artist": "Rrag",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/eb11420f75dff57a9671be83c7317949.jpg",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/66b85e1d4eb6aba4fa0b258899ca8872.jpg",
       "nowPlaying": false,
-      "timestamp": 1786544487
+      "timestamp": 1786548433
+    },
+    {
+      "name": "Peachy World",
+      "artist": "Drizzly",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ea8970114f0a183c50b85206aaf27acb.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786548232
+    },
+    {
+      "name": "Head Over Heels",
+      "artist": "Moongazing And Her",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1786548032
+    },
+    {
+      "name": "seperti bunga",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786547789
     }
   ]
 }

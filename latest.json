@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "Kisah dari Selatan Jakarta - Remastered 2023",
+      "artist": "White Shoes & The Couples Company",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/b3100cdd806e01e848ebbd7fd1857c40.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786494179
+    },
+    {
       "name": "Kisah Dari Selatan Jakarta",
       "artist": "White Shoes & The Couples Company",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2998e21221aba8369a0025eb60db70d0.jpg",
@@ -27,13 +34,6 @@
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4cac3e2ec297ea41e99c8aa0223db8a4.jpg",
       "nowPlaying": false,
       "timestamp": 1786450060
-    },
-    {
-      "name": "Cutie Mew Mew Magic",
-      "artist": "Toby Fox",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7b7ddb5c645209ca789138f0dccecf67.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786449208
     }
   ]
 }

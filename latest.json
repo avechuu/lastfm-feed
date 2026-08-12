@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Kisah dari Selatan Jakarta - Remastered 2023",
-      "artist": "White Shoes & The Couples Company",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/b3100cdd806e01e848ebbd7fd1857c40.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786494179
+      "name": "warna primer",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Kisah Dari Selatan Jakarta",
-      "artist": "White Shoes & The Couples Company",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2998e21221aba8369a0025eb60db70d0.jpg",
+      "name": "kucing liar",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
       "nowPlaying": false,
-      "timestamp": 1786493923
+      "timestamp": 1786509847
     },
     {
-      "name": "Senandung Maaf - Remastered 2023",
-      "artist": "White Shoes & The Couples Company",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/b3100cdd806e01e848ebbd7fd1857c40.jpg",
+      "name": "bianglala",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
       "nowPlaying": false,
-      "timestamp": 1786491678
+      "timestamp": 1786509610
     },
     {
-      "name": "Sempurnanya Aku",
-      "artist": "NPD",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0ade17d3ec975254ad8709ac63cba5c3.jpg",
+      "name": "sekarang",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
       "nowPlaying": false,
-      "timestamp": 1786450378
+      "timestamp": 1786509435
     },
     {
-      "name": "Terranova (Pandera Airplay edit)",
-      "artist": "Janina",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4cac3e2ec297ea41e99c8aa0223db8a4.jpg",
+      "name": "seperti bunga",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
       "nowPlaying": false,
-      "timestamp": 1786450060
+      "timestamp": 1786509188
     }
   ]
 }

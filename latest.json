@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Romantic Purple",
-      "artist": "The Milo",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/8db1b5fd988d7e9ed015b2180ed5b96b.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
-      "name": "Harapan, Pt. 3",
-      "artist": "The Cottons",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/e0dd1e3c0c86851e2012dac235701a81.jpg",
+      "name": "Bekerja",
+      "artist": "Jirapah",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/8c49b8b7c7b54b0f3c655e2a86aeeb19.png",
       "nowPlaying": false,
-      "timestamp": 1786621701
+      "timestamp": 1786623373
     },
     {
-      "name": "Broken Hearted For Stranger Is Such A Feeling That I Adore",
-      "artist": "Eleanor Whisper",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ef3d62ca482889af02926fffeb0feaec.jpg",
+      "name": "Between 4 and 10 (Strawberry etc.)",
+      "artist": "Texpack",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/11dec1f15f5112ac2e13b1528d0ccd9a.jpg",
       "nowPlaying": false,
-      "timestamp": 1786621483
+      "timestamp": 1786623221
     },
     {
-      "name": "High Tide",
+      "name": "Superfine",
+      "artist": "Skandal",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/b6f3cbb2cb6233d1bd7bd8aa098dee88.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786622978
+    },
+    {
+      "name": "Graduation Song",
       "artist": "Girl and Her Bad Mood",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/5686e36046e94ae998baf6b015284ace.jpg",
       "nowPlaying": false,
-      "timestamp": 1786621279
+      "timestamp": 1786622711
     },
     {
-      "name": "Magnetic Fields",
-      "artist": "Texpack",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/e74469c532602a8e328ed35850eaa98c.jpg",
+      "name": "Terjebak Gusar",
+      "artist": "Rrag",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/eb11420f75dff57a9671be83c7317949.jpg",
       "nowPlaying": false,
-      "timestamp": 1786621125
+      "timestamp": 1786622546
     }
   ]
 }

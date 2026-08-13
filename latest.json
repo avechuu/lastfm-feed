@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Daun dan Ranting Menuju Surga",
+      "name": "Romantic Purple",
       "artist": "The Milo",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6a376eae83ff4a8199d7a34997a54407.jpg",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/8db1b5fd988d7e9ed015b2180ed5b96b.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "Angin Selatan",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2e6a480f6a7b9f99b95ea17f3523780f.jpg",
+      "name": "Harapan, Pt. 3",
+      "artist": "The Cottons",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/e0dd1e3c0c86851e2012dac235701a81.jpg",
       "nowPlaying": false,
-      "timestamp": 1786618832
+      "timestamp": 1786621701
     },
     {
-      "name": "Racau",
-      "artist": "Skandal",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/281a67f6e6fe86c3ed49d1219dc0d8de.jpg",
+      "name": "Broken Hearted For Stranger Is Such A Feeling That I Adore",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/ef3d62ca482889af02926fffeb0feaec.jpg",
       "nowPlaying": false,
-      "timestamp": 1786618617
+      "timestamp": 1786621483
     },
     {
-      "name": "Fallingout",
+      "name": "High Tide",
       "artist": "Girl and Her Bad Mood",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6786983f269b22de44208f9a02701240.png",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/5686e36046e94ae998baf6b015284ace.jpg",
       "nowPlaying": false,
-      "timestamp": 1786618464
+      "timestamp": 1786621279
     },
     {
-      "name": "Heartless Stoic Boy",
+      "name": "Magnetic Fields",
       "artist": "Texpack",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c42b6135772f86f08b4b04b413592e1c.jpg",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/e74469c532602a8e328ed35850eaa98c.jpg",
       "nowPlaying": false,
-      "timestamp": 1786618356
+      "timestamp": 1786621125
     }
   ]
 }

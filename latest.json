@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "tenang menghilang",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
+      "name": "Daun dan Ranting Menuju Surga",
+      "artist": "The Milo",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6a376eae83ff4a8199d7a34997a54407.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "lagu",
-      "artist": "Swellow",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4a82476b2b480c91137c0cff86e8c83d.jpg",
+      "name": "Angin Selatan",
+      "artist": "starrducc",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2e6a480f6a7b9f99b95ea17f3523780f.jpg",
       "nowPlaying": false,
-      "timestamp": 1786615867
+      "timestamp": 1786618832
     },
     {
-      "name": "We're on Date!",
-      "artist": "Drizzly",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "Racau",
+      "artist": "Skandal",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/281a67f6e6fe86c3ed49d1219dc0d8de.jpg",
       "nowPlaying": false,
-      "timestamp": 1786615722
+      "timestamp": 1786618617
     },
     {
-      "name": "Menyala, Meredup",
-      "artist": "Moongazing And Her",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/7186a9ca80b3d5708341ff613ab3c3ff.jpg",
+      "name": "Fallingout",
+      "artist": "Girl and Her Bad Mood",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6786983f269b22de44208f9a02701240.png",
       "nowPlaying": false,
-      "timestamp": 1786615545
+      "timestamp": 1786618464
     },
     {
-      "name": "you",
-      "artist": "The caroline's",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/873299e0aa28d10ab9e655f251cffae4.jpg",
+      "name": "Heartless Stoic Boy",
+      "artist": "Texpack",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c42b6135772f86f08b4b04b413592e1c.jpg",
       "nowPlaying": false,
-      "timestamp": 1786615373
+      "timestamp": 1786618356
     }
   ]
 }

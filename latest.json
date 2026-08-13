@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Solace In Solitude",
+      "name": "It's You",
       "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/052c4850999cdb67d0076b3fb793446c.jpg",
-      "nowPlaying": true,
-      "timestamp": null
-    },
-    {
-      "name": "Constellations",
-      "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/3fbe0ca392503d5cfdcee143628e34df.png",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/a0cf94497a871291ef848b3957f0fcbe.jpg",
       "nowPlaying": false,
-      "timestamp": 1786636891
+      "timestamp": 1786638090
     },
     {
-      "name": "You Don't Know What You Did! (Dead Butterflies)",
+      "name": "Ruin You (Aorta)",
       "artist": "Dead Butterflies",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/00e5abfdea0d3b7e0f820a44589b9403.jpg",
       "nowPlaying": false,
-      "timestamp": 1786636716
+      "timestamp": 1786638006
     },
     {
-      "name": "Embers",
+      "name": "thorns",
       "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/052c4850999cdb67d0076b3fb793446c.jpg",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/13468b078057aeadbc47820217fe4c16.jpg",
       "nowPlaying": false,
-      "timestamp": 1786623656
+      "timestamp": 1786637854
     },
     {
-      "name": "Bekerja",
-      "artist": "Jirapah",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/8c49b8b7c7b54b0f3c655e2a86aeeb19.png",
+      "name": "Skate 3 is my Coping Mechanism (Aorta)",
+      "artist": "Dead Butterflies",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/00e5abfdea0d3b7e0f820a44589b9403.jpg",
       "nowPlaying": false,
-      "timestamp": 1786623373
+      "timestamp": 1786637690
+    },
+    {
+      "name": "Am I Enough? (Dead Butterflies)",
+      "artist": "Dead Butterflies",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/00e5abfdea0d3b7e0f820a44589b9403.jpg",
+      "nowPlaying": false,
+      "timestamp": 1786637353
     }
   ]
 }

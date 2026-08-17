@@ -4,8 +4,8 @@
       "name": "Eureka",
       "artist": "Eleanor Whisper",
       "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1786972792
     },
     {
       "name": "Have You Ever?",

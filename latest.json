@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "And I Miss Pou",
-      "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/a0cf94497a871291ef848b3957f0fcbe.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786696478
+      "name": "Eureka",
+      "artist": "Eleanor Whisper",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "garam himalaya",
+      "name": "Have You Ever?",
+      "artist": "Magnolia Celebration",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "nowPlaying": false,
+      "timestamp": 1786972490
+    },
+    {
+      "name": "astrologi",
       "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/6b7c6588f431dcd36b7170bf39c2e0b3.jpg",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
       "nowPlaying": false,
-      "timestamp": 1786663337
+      "timestamp": 1786972306
     },
     {
-      "name": "Embers",
-      "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/052c4850999cdb67d0076b3fb793446c.jpg",
+      "name": "Flower Man [With Vocals] Extended Lyrics Boss Theme (From 'Deltarune Chapter 5') - Rock Version",
+      "artist": "D.Meletis",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1786662144
+      "timestamp": 1786972113
     },
     {
-      "name": "And I Miss Pou",
-      "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/a0cf94497a871291ef848b3957f0fcbe.jpg",
+      "name": "Flower Man (English Version) [from DELTARUNE Chapter 5 Game Soundtrack] [With Vocals]",
+      "artist": "Kabaaneko",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1786638205
-    },
-    {
-      "name": "It's You",
-      "artist": "Dead Butterflies",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/a0cf94497a871291ef848b3957f0fcbe.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786638090
+      "timestamp": 1786971916
     }
   ]
 }

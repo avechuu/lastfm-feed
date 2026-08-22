@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Eureka",
-      "artist": "Eleanor Whisper",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/0e5c6f73f85f61a42029a9039c576017.jpg",
-      "nowPlaying": false,
-      "timestamp": 1786972792
+      "name": "Ain't Nobody Else Like You",
+      "artist": "Cass Elliot",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/01bdfb27fc463c5e189bd27a2350aa65.png",
+      "nowPlaying": true,
+      "timestamp": null
     },
     {
-      "name": "Have You Ever?",
-      "artist": "Magnolia Celebration",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "We Are Made Of Meat",
+      "artist": "Halle Uchida",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/feec3a0df951e105e1e36e2f7ed64294.jpg",
       "nowPlaying": false,
-      "timestamp": 1786972490
+      "timestamp": 1787378031
     },
     {
-      "name": "astrologi",
-      "artist": "starrducc",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d6f8a0e9ffc677b8dde9c173fff94443.jpg",
+      "name": "Just Be Competent",
+      "artist": "r u s s e l b u c k",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/d48a627ddd20cb0ebbcebc273c44e8d7.jpg",
       "nowPlaying": false,
-      "timestamp": 1786972306
+      "timestamp": 1787377874
     },
     {
-      "name": "Flower Man [With Vocals] Extended Lyrics Boss Theme (From 'Deltarune Chapter 5') - Rock Version",
-      "artist": "D.Meletis",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "Getting over you",
+      "artist": "Hot Freaks",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/357f92b8fffe00bda1ad7e7c7af11f62.jpg",
       "nowPlaying": false,
-      "timestamp": 1786972113
+      "timestamp": 1787377691
     },
     {
-      "name": "Flower Man (English Version) [from DELTARUNE Chapter 5 Game Soundtrack] [With Vocals]",
-      "artist": "Kabaaneko",
-      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "The Sunshine After the Rain",
+      "artist": "Berri",
+      "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/488137ac1ec89ce6130979954e6e52fc.jpg",
       "nowPlaying": false,
-      "timestamp": 1786971916
+      "timestamp": 1787377486
     }
   ]
 }
